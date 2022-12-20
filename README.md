@@ -23,7 +23,7 @@
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text]()
 
-### Compatible With Windows Operating Systems
+### Compatible With Debian Operating Systems (Raspberry Pi)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
