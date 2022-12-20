@@ -17,7 +17,7 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
 > Cumsoft OvenLTE is a CPU Monitor, A CPU monitor is a software tool that tracks the usage or more specifically the tempature of the central processing unit (CPU) of a computer. It is important to track the temperature of a CPU (Central Processing Unit) because high temperatures can cause a variety of problems, including reduced performance and even permanent damage to the hardware. When a CPU operates at high temperatures for an extended period of time, it can cause the device to become unstable and potentially lead to hardware failures or system crashes. Additionally, high temperatures can cause the CPU to become less efficient, which can result in slower performance.
 > 
-By monitoring the temperature of a CPU, you can ensure that it is operating within safe temperature limits and take action if necessary to prevent overheating. This can help to maintain the performance and lifespan of your device. Some common methods for tracking CPU temperature include using software tools or monitoring the temperature through the BIOS (Basic Input/Output System) settings on the device.
+>By monitoring the temperature of a CPU, you can ensure that it is operating within safe temperature limits and take action if necessary to prevent overheating. This can help to maintain the performance and lifespan of your device. Some common methods for tracking CPU temperature include using software tools or monitoring the temperature through the BIOS (Basic Input/Output System) settings on the device.
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
