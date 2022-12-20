@@ -15,9 +15,9 @@
 8. [Cumsoft](#Cumsoft)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
-> Cumsoft Cursorority Pak1, created by Cumsoft, is a collection of .cur files used in Windows modern & legacy operating systems to personlize a desktop cursor.
-> Adding custom cursors to the desktop not only looks cool but, more importantly gives visual feedback in real-time to the user about current PID Processes
-> The Cumsoft Cursorority Pak1 comes with 30 unique designs that are sure to make any curious onlooker instantly jealous. With 30 options most default cursors can be replaced by a more exciting one.
+> Cumsoft OvenLTE is a CPU Monitor, A CPU monitor is a software tool that tracks the usage or more specifically the tempature of the central processing unit (CPU) of a computer. It is important to track the temperature of a CPU (Central Processing Unit) because high temperatures can cause a variety of problems, including reduced performance and even permanent damage to the hardware. When a CPU operates at high temperatures for an extended period of time, it can cause the device to become unstable and potentially lead to hardware failures or system crashes. Additionally, high temperatures can cause the CPU to become less efficient, which can result in slower performance.
+> 
+By monitoring the temperature of a CPU, you can ensure that it is operating within safe temperature limits and take action if necessary to prevent overheating. This can help to maintain the performance and lifespan of your device. Some common methods for tracking CPU temperature include using software tools or monitoring the temperature through the BIOS (Basic Input/Output System) settings on the device.
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
@@ -28,17 +28,10 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 *Browser installation*
-- Download from source: (https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak1)
-- Navigate to target folder: Search keyword "Cumsoft_Cursorority_Pak1 or "../user//Cumsoft_Cursorority_Pak1.zip/.."
+- Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
+- Navigate to target folder: Search keyword "Cumsoft_OvenLTE or "../user//Cumsoft_OvenLTE_Pak1.zip/.."
 - Decompress/Unzip folder with your choice of software 
 - Save or remember the folder and path location
-
-Windows 10
-1. Open Settings in Windows 10 by clicking the Start menu button in the bottom left corner of your screen and clicking the gear icon. 
-2. Select “Devices,” “Mouse,” and then “Additional mouse options.” Alternatively, you can type “mouse” into the search box to find the right options.
-3. A window named “Mouse Properties” will open. To change the look of your mouse cursor, go to “Pointers,” click "Browse"
-4. Now either search "Cumsoft_Cursorority_Pak1" or navigate to the folder and path location of the Cumsoft_Cursorority_Pak1
-5. Select the one you enjoy, then click "OK" to confirm. Your mouse cursor should change right away, Success!
 
 Windows 11
 1. Click on the Start button in the taskbar and launch the Settings app.
@@ -60,14 +53,23 @@ $ Save or remember the folder and path location
 
 ```
 ### 𝘏𝘰𝘸 𝘵𝘰 𝘜𝘴𝘦
-> Please firstly, Follow and review the install instructions. 
+
 >
-> Cumsoft Cursorority Pak1 is a custom cursor pack which includes .cur files and a "blueprint" of the "32x32px" cursor design. 
-> Custom cursors not only bring cohesion to the desktop but can provide visual feedback aswell.
-> Windows operating systems do allow for customization of default cursors i.e. color and thickness changes but thats the extent of modification that can be performed.
-> .Cur extensions can be utilized in Windows 11, 10, 8, 8.1, 7, or Windows XP or Vista.
-> .Cur extensions can also be implimented in HTML and other Frameworks. .Cur extensions are not available in Linux Distros however they can be converted to extensions that may or may not work with Linux.
-> Furthmore, Cursors may also be known as "Mouse", "Mouse Pointers","Clickers", "Arrows", "Pointers"
+>
+>
+>
+>There are several ways that a CPU temperature monitor can be utilized:
+>
+>1. To ensure that the CPU is operating within safe temperature limits: By monitoring the temperature of the CPU, you can ensure that it is not overheating and that it is operating within the safe temperature range recommended by the manufacturer. If the temperature rises above a certain level, you can take steps to reduce the load on the CPU or improve cooling to bring the temperature down.
+>
+>2. To detect and diagnose problems with the cooling system: If the temperature of the CPU is consistently high, it could be a sign that there is a problem with the cooling system. A temperature monitor can help you to identify such issues and take corrective action, such as cleaning the fans or replacing a faulty cooler.
+>
+>3. To optimize performance: By monitoring the temperature of the CPU, you can identify situations where the temperature is causing the CPU to throttle its performance in order to prevent overheating. By addressing the underlying cause of the high temperature, you may be able to improve performance.
+>
+>4. To monitor the effectiveness of cooling modifications: If you have made modifications to the cooling system of your device, a temperature monitor can help you to determine whether these modifications are effective in reducing the temperature of the CPU.
+>
+>5. To monitor the temperature of a server or other critical system: In a server or other mission-critical system, it is important to ensure that the temperature of the CPU is within safe limits to prevent downtime or hardware failures. A temperature monitor can help you to monitor the temperature of the CPU in real-time and take action if necessary.
+>
 
 ### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴
 
