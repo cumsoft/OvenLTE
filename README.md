@@ -75,10 +75,10 @@ $ Save or remember the folder and path location
 
 | Resource | Url |
 | ------ | ------ |
+| vcgencmd | [https://www.nicm.dev/vcgencmd/] |
 | MobileFish | [https://www.mobilefish.com/services/cursor/cursor.php] |
 | PHP | [https://www.php.net/] |
 | Cumsoft's Teenyweeny | [https://github.com/cumsoft/OvenLTE] |
-| Cumsoft's Vikiki Virtual Keyboard | [https://github.com/cumsoftcumsoft/OvenLTE] |
 
 ## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦
 > The MIT License (MIT)
