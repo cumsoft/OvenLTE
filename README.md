@@ -2,7 +2,7 @@
 
 ### Cumsoft_Rpi_OvenLTE CPU Monitor <3
 
-![Image text](https://github.com/cumsoft/Cursorority_Pak1/blob/93ebb0c298eef3ee711c7a2bce5df53ea731b0a7/Cumsoft_Cursorority_Pak1READMED.png)
+![Image text]()
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
@@ -21,7 +21,7 @@
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text](https://github.com/cumsoft/Cursorority_Pak1/blob/2d1732c4dcbd299935018e6c895b668aa454fc66/Cumsoft_Cursorority_Pak1.jpg)
+![Image text]()
 
 ### Compatible With Windows Operating Systems
 
@@ -75,8 +75,8 @@ $ Save or remember the folder and path location
 | ------ | ------ |
 | MobileFish | [https://www.mobilefish.com/services/cursor/cursor.php] |
 | PHP | [https://www.php.net/] |
-| Cumsoft's Teenyweeny | [https://github.com/cumsoft/Teenyweeny] |
-| Cumsoft's Vikiki Virtual Keyboard | [https://github.com/cumsoftcumsoft/Vikiki] |
+| Cumsoft's Teenyweeny | [https://github.com/cumsoft/OvenLTE] |
+| Cumsoft's Vikiki Virtual Keyboard | [https://github.com/cumsoftcumsoft/OvenLTE] |
 
 ## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦
 > The MIT License (MIT)
