@@ -30,7 +30,8 @@
 #################################################################
 #################################################################
 
-# Please dont forget to 
+# Please dont forget to "chmod +x vcgencmdinstaller.sh"
+# Navigate to target file: ./vcgencmdinstaller.sh
 
 # Check if Python 3 is installed
 if command -v python3 &>/dev/null; then
