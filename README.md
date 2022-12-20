@@ -2,7 +2,7 @@
 
 ### Cumsoft_Rpi_OvenLTE CPU Monitor <3
 
-![Image text]()
+![Image text](https://github.com/cumsoft/OvenLTE/blob/02d0ff352878eb25855220e07fadde7247803667/Cumsoft_OvenLTE_ScreenShot.png)
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
