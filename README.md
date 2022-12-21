@@ -15,10 +15,11 @@
 8. [Cumsoft](#Cumsoft)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
-> Cumsoft built the OvenLTE with overclockng in mind. OvenLTE is just the tool needed when running stress or even optimization tests based on cpu load.
-> 
->
->
+> Cumsoft presents the OvenLTE 
+> built with overclockng in mind. It's just the tool needed when running stress or even optimization tests based on cpu load.
+> The OvenLTE is a CPU Tempature monitor that was built on Debian linux but could be deployed on other flavors of linux or even Windows.
+> Functioning based off the "vcgencmd measasure_temp" command and visually displayed via Tkinter this whole tool is built from python and can be deployed anywhere python can run.
+> OvenLTE displays the exact tempature of the cpu in Celsius. 
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
@@ -32,7 +33,8 @@
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
 - Navigate to target folder: Search keyword "Cumsoft_OvenLTE or "../user//Cumsoft_OvenLTE_Pak1.zip/.."
 - Decompress/Unzip folder with your choice of software 
-- Save or remember the folder and path location
+- Open Terminal and Navigate to the folder.
+- Open with Python or Python3 command.
 
 Linux
 1. 
@@ -50,7 +52,6 @@ $ # winget install http://www.example.com/repo/example.pkg.tar.zst
 $ C:///path/to/the/file "Cumsoft_Cursorority_Pak1.zip"
 $ Decompress/Unzip folder with your choice of software
 $ Save or remember the folder and path location
-
 
 ```
 ### 𝘏𝘰𝘸 𝘵𝘰 𝘜𝘴𝘦
@@ -99,9 +100,8 @@ ________________________________________________________________________________
 [Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
 
 ### Latest Updates
-> Cumsoft is actively working on a "Cumsoft_Cursorority_Pak2" and has plans to release another custom cursor pack mid-2023. 
->
 > If you would like to see a certian design implimented in the next release, feel free to write our devs with suggestions @ the email listed above.
+>
 >
 > Coded with <3 by the Cumsoft Dev Team :)
 
