@@ -15,15 +15,16 @@
 8. [Cumsoft](#Cumsoft)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
-> Cumsoft OvenLTE is a CPU Monitor, A CPU monitor is a software tool that tracks the usage or more specifically the tempature of the central processing unit (CPU) of a computer. It is important to track the temperature of a CPU (Central Processing Unit) because high temperatures can cause a variety of problems, including reduced performance and even permanent damage to the hardware. When a CPU operates at high temperatures for an extended period of time, it can cause the device to become unstable and potentially lead to hardware failures or system crashes. Additionally, high temperatures can cause the CPU to become less efficient, which can result in slower performance.
+> Cumsoft built the OvenLTE with overclockng in mind. OvenLTE is just the tool needed when running stress or even optimization tests based on cpu load.
 > 
->By monitoring the temperature of a CPU, you can ensure that it is operating within safe temperature limits and take action if necessary to prevent overheating. This can help to maintain the performance and lifespan of your device. Some common methods for tracking CPU temperature include using software tools or monitoring the temperature through the BIOS (Basic Input/Output System) settings on the device.
+>
+>
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text]()
 
-### Compatible With Debian Operating Systems (Raspberry Pi)
+### Compatible With Linux 
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
@@ -33,15 +34,15 @@
 - Decompress/Unzip folder with your choice of software 
 - Save or remember the folder and path location
 
-Windows 11
-1. Click on the Start button in the taskbar and launch the Settings app.
-2. Navigate to Bluetooth & devices in the left pane.
-3. Scroll down and select the Mouse option on the right.
-4. Click on Additional mouse settings.
-5. Within Mouse Properties, click on the Pointers tab at the top.
-6. Highlight a cursor which you want to change in "Customize" then click "Browse"
-7. Now either search "Cumsoft_Cursorority_Pak1" or navigate to the folder and path location of the Cumsoft_Cursorority_Pak1
-8. Select the one you enjoy, then click "OK" to confirm. Your mouse cursor should change right away, Success!
+Linux
+1. 
+2. 
+3.
+4. 
+5.
+6.
+7. 
+8.
 
 ```
 *CMD Installation*
@@ -54,21 +55,21 @@ $ Save or remember the folder and path location
 ```
 ### 𝘏𝘰𝘸 𝘵𝘰 𝘜𝘴𝘦
 
+> Cumsoft OvenLTE is a CPU Monitor, A CPU monitor is a software tool that tracks the usage or more specifically the tempature of the central processing unit (CPU) of a computer. It is important to track the temperature of a CPU (Central Processing Unit) because high temperatures can cause a variety of problems, including reduced performance and even permanent damage to the hardware. When a CPU operates at high temperatures for an extended period of time, it can cause the device to become unstable and potentially lead to hardware failures or system crashes. Additionally, high temperatures can cause the CPU to become less efficient, which can result in slower performance.
+> 
+> By monitoring the temperature of a CPU, you can ensure that it is operating within safe temperature limits and take action if necessary to prevent overheating. This can help to maintain the performance and lifespan of your device. Some common methods for tracking CPU temperature include using software tools or monitoring the temperature through the BIOS (Basic Input/Output System) settings on the device.
 >
+> There are several ways that a CPU temperature monitor can be utilized:
 >
+> 1. To ensure that the CPU is operating within safe temperature limits: By monitoring the temperature of the CPU, you can ensure that it is not overheating and that it is operating within the safe temperature range recommended by the manufacturer. If the temperature rises above a certain level, you can take steps to reduce the load on the CPU or improve cooling to bring the temperature down.
 >
+> 2. To detect and diagnose problems with the cooling system: If the temperature of the CPU is consistently high, it could be a sign that there is a problem with the cooling system. A temperature monitor can help you to identify such issues and take corrective action, such as cleaning the fans or replacing a faulty cooler.
 >
->There are several ways that a CPU temperature monitor can be utilized:
+> 3. To optimize performance: By monitoring the temperature of the CPU, you can identify situations where the temperature is causing the CPU to throttle its performance in order to prevent overheating. By addressing the underlying cause of the high temperature, you may be able to improve performance.
 >
->1. To ensure that the CPU is operating within safe temperature limits: By monitoring the temperature of the CPU, you can ensure that it is not overheating and that it is operating within the safe temperature range recommended by the manufacturer. If the temperature rises above a certain level, you can take steps to reduce the load on the CPU or improve cooling to bring the temperature down.
+> 4. To monitor the effectiveness of cooling modifications: If you have made modifications to the cooling system of your device, a temperature monitor can help you to determine whether these modifications are effective in reducing the temperature of the CPU.
 >
->2. To detect and diagnose problems with the cooling system: If the temperature of the CPU is consistently high, it could be a sign that there is a problem with the cooling system. A temperature monitor can help you to identify such issues and take corrective action, such as cleaning the fans or replacing a faulty cooler.
->
->3. To optimize performance: By monitoring the temperature of the CPU, you can identify situations where the temperature is causing the CPU to throttle its performance in order to prevent overheating. By addressing the underlying cause of the high temperature, you may be able to improve performance.
->
->4. To monitor the effectiveness of cooling modifications: If you have made modifications to the cooling system of your device, a temperature monitor can help you to determine whether these modifications are effective in reducing the temperature of the CPU.
->
->5. To monitor the temperature of a server or other critical system: In a server or other mission-critical system, it is important to ensure that the temperature of the CPU is within safe limits to prevent downtime or hardware failures. A temperature monitor can help you to monitor the temperature of the CPU in real-time and take action if necessary.
+> 5. To monitor the temperature of a server or other critical system: In a server or other mission-critical system, it is important to ensure that the temperature of the CPU is within safe limits to prevent downtime or hardware failures. A temperature monitor can help you to monitor the temperature of the CPU in real-time and take action if necessary.
 >
 
 ### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴
@@ -76,9 +77,9 @@ $ Save or remember the folder and path location
 | Resource | Url |
 | ------ | ------ |
 | vcgencmd | [https://www.nicm.dev/vcgencmd/] |
-| MobileFish | [https://www.mobilefish.com/services/cursor/cursor.php] |
-| PHP | [https://www.php.net/] |
-| Cumsoft's Teenyweeny | [https://github.com/cumsoft/OvenLTE] |
+| Python / Python3 | [https://docs.python.org/3/] |
+| Tkinter | [https://docs.python.org/3/library/tkinter.html] |
+| Cumsoft's Teenyweeny | [https://github.com/cumsoft/Teenyweeny] |
 
 ## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦
 > The MIT License (MIT)
