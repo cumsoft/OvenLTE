@@ -16,10 +16,6 @@
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
 > Cumsoft presents the OvenLTE 
-> built with overclockng in mind. It's just the tool needed when running stress or even optimization tests based on cpu load.
-> The OvenLTE is a CPU Tempature monitor that was built on Debian linux but could be deployed on other flavors of linux or even Windows.
-> Functioning based off the "vcgencmd measasure_temp" command and visually displayed via Tkinter this whole tool is built from python and can be deployed anywhere python can run.
-> OvenLTE displays the exact tempature of the cpu in Celsius. 
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
