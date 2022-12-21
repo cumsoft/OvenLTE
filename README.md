@@ -25,9 +25,9 @@
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text]()
 
-### Compatible With Linux 
-
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
+
+## Cumsoft has provided a assets downloader script however addition setup may be needed
 
 *Browser installation*
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
