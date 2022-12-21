@@ -27,11 +27,11 @@
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
-## Cumsoft has provided a assets downloader script however addition setup may be needed
+#### Cumsoft has provided an assets downloader script however addition setup may be needed
 
 *Browser installation*
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
-- Navigate to target folder: Search keyword "Cumsoft_OvenLTE or "../user//Cumsoft_OvenLTE_Pak1.zip/.."
+- Navigate to target folder: Search keyword "Cumsoft_OvenLTE or "../user//Cumsoft_OvenLTE.zip/.."
 - Decompress/Unzip folder with your choice of software 
 - Open Terminal and Navigate to the folder.
 - Open with Python or Python3 command.
@@ -49,7 +49,7 @@ Linux
 ```
 *CMD Installation*
 $ # winget install http://www.example.com/repo/example.pkg.tar.zst
-$ C:///path/to/the/file "Cumsoft_Cursorority_Pak1.zip"
+$ C:///path/to/the/file "Cumsoft_OvenLTE.zip"
 $ Decompress/Unzip folder with your choice of software
 $ Save or remember the folder and path location
 
