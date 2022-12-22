@@ -7,7 +7,7 @@
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
 2. [Screenshot](#Screenshot)
-3. [Browser Compatibility List](#Browser-Compatibility-List)
+3. [Browser Install](#Browser-Compatibility-List)
 4. [Software Install](#Software-Install)
 5. [How2Use](#How2Use)
 6. [Resources](#Resources)
