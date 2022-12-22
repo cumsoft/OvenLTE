@@ -24,6 +24,8 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 #### Cumsoft has provided an assets downloader script however addition setup may be needed
+> Cumsoft OvenLTE requires both frameworks Tkinter and vcgencmd and can be deployed anywhere python & python3 can run.
+> Python can be installed by following the instructions found in the resources catagory
 
 *Browser installation*
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
@@ -32,22 +34,39 @@
 - Open Terminal and Navigate to the folder.
 - Open with Python or Python3 command.
 
-Linux
-1. 
-2. 
-3.
-4. 
-5.
-6.
-7. 
-8.
+_________________________________________________________________________________________________
+
+Linux Terminal installation
+*It is important to note that Debian already includes all assets to run cumsoft OvenLTE*
+*If using Debain simply run:$ 
+
+Install Python3
+1. $ sudo apt-get update && sudo apt-get install python3.6 (Debian)
+2. $ sudo dnf install python3 (Other Linux Distros)
+
+Install pip
+1. $ python get-pip.py (Linux & MacOS)
+
+Install vcgencmd
+
+1. Install Globally:$ sudo pip3 install vcgencmd
+2. Install locally:$ pip3 install --user vcgencmd
+
+3. NPM alternative npmjs.com/package/vcgencmd: $ npm install vcgencmd
 
 ```
-*CMD Installation*
-$ # winget install http://www.example.com/repo/example.pkg.tar.zst
-$ C:///path/to/the/file "Cumsoft_OvenLTE.zip"
-$ Decompress/Unzip folder with your choice of software
-$ Save or remember the folder and path location
+*Windows Installation*
+
+At this time it is recommended to install python via gui here: https://www.python.org/download/releases/2.4/msi/
+
+Install python via CMD system wide silently
+1. C:\Users\Username> python-3.9.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+Check if Python did installed
+2. C:\Users\Username> python -V
+Install Pip
+3. C:\Users\Username> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+Install virtualnv (opional)
+4. C:\Users\Username> pip install virtualenv
 
 ```
 ### 𝘏𝘰𝘸 𝘵𝘰 𝘜𝘴𝘦
