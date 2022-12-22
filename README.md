@@ -5,25 +5,24 @@
 ![Image text](https://github.com/cumsoft/OvenLTE/blob/02d0ff352878eb25855220e07fadde7247803667/Cumsoft_OvenLTE_ScreenShot.png)
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
-1. [Software Info](#Software-Info)
-2. [Screenshot](#Screenshot)
-3. [Browser Install](#Browser-Compatibility-List)
-4. [Software Install](#Software-Install)
-5. [How2Use](#How2Use)
-6. [Resources](#Resources)
-7. [License](#License)
-8. [Cumsoft](#Cumsoft)
+1. [Software Info](### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰)
+2. [Screenshot](### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵)
+4. [Software Install](### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯)
+5. [How2Use](### 𝘏𝘰𝘸 𝘵𝘰 𝘜𝘴𝘦)
+6. [Resources](### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴)
+7. [License](## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦)
+8. [Cumsoft](## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © ２０２２)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
-> Cumsoft presents the OvenLTE 
->
+> Cumsoft OvenLTE is a simple interface that gives realtime cpu core tempature feedabck via Celsius tempature readout and helpful color coding too. 
+> The OvenLTE is the perfect tool for CPU overclocking. 
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text]()
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
-#### Cumsoft has provided an assets downloader script however addition setup may be needed
+*Cumsoft has provided an assets downloader script however addition setup may be needed*
 
 *Browser installation*
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
