@@ -34,8 +34,8 @@
 _________________________________________________________________________________________________
 
 Cumsoft OvenLTE Linux Assets Terminal installation
+
 *It is important to note that Debian already includes all assets to run cumsoft OvenLTE*
-*If using Debain simply run:$ 
 
 Install Python3
 1. $ sudo apt-get update && sudo apt-get install python3.6 (Debian)
