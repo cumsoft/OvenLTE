@@ -24,8 +24,6 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 #### Cumsoft has provided an assets downloader script however addition setup may be needed
-> Cumsoft OvenLTE requires both frameworks Tkinter and vcgencmd and can be deployed anywhere python & python3 can run.
-> Python can be installed by following the instructions found in the resources catagory
 
 *Browser installation*
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
@@ -36,7 +34,7 @@
 
 _________________________________________________________________________________________________
 
-Linux Terminal installation
+Cumsoft OvenLTE Linux Assets Terminal installation
 *It is important to note that Debian already includes all assets to run cumsoft OvenLTE*
 *If using Debain simply run:$ 
 
@@ -55,7 +53,7 @@ Install vcgencmd
 3. NPM alternative npmjs.com/package/vcgencmd: $ npm install vcgencmd
 
 ```
-*Windows Installation*
+*Cumsoft OvenLTE Window Assets Installation*
 
 At this time it is recommended to install python via gui here: https://www.python.org/download/releases/2.4/msi/
 
