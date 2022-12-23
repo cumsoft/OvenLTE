@@ -40,9 +40,15 @@ Cumsoft OvenLTE Linux Assets Terminal installation
 Install Python3
 1. $ sudo apt-get update && sudo apt-get install python3.6 (Debian)
 2. $ sudo dnf install python3 (Other Linux Distros)
+3. $ sudo pacman -S python3 (Manjaro)
 
-Install pip
+Install pip <<<-----------------------   check version is $ pip -V
 1. $ python get-pip.py (Linux & MacOS)
+2. $ sudo pacman -S python-pip3 (Manjaro)
+
+Install tkinter
+1. $ pip install k
+2. Configure tk with python: $ sudo pacman -S tk
 
 Install vcgencmd
 
