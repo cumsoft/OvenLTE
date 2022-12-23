@@ -29,16 +29,13 @@
 - Navigate to target folder: Search keyword "Cumsoft_OvenLTE or "../user//Cumsoft_OvenLTE.zip/.."
 - Decompress/Unzip folder with your choice of software 
 - Open Terminal and Navigate to the folder.
-- Open with Python or Python3 command.
+- Open with Python or Python3.
 
-_________________________________________________________________________________________________
+---->. Dont Have Python installed?
 
-Cumsoft OvenLTE Linux Assets Terminal installation
-
-*It is important to note that Debian already includes all assets to run cumsoft OvenLTE*
 
 Install Python3
-1. $ sudo apt-get update && sudo apt-get install python3.6 (Debian)
+1. $ sudo apt-get update && sudo apt-get install python3 (Debian)
 2. $ sudo dnf install python3 (Other Linux Distros)
 3. $ sudo pacman -S python3 (Manjaro)
 
