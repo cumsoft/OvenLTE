@@ -18,7 +18,7 @@
 > The OvenLTE is the perfect tool for CPU overclocking. 
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text]()
+![Image text](https://github.com/cumsoft/OvenLTE/blob/f8556b391f13dbd31b1963583c3f106371edfe11/Cumsoft_OvenLTE_ScreenShot2.png)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
