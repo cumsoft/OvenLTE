@@ -40,7 +40,7 @@ def H():
 	else:C.config(fg='red')
 	C.config(text=f"Temperature: {B:.1f}°C");A.after(1000,H)
 A=B.Tk()
-A.title('CPU Temperature Monitor')
+A.title('Cumsoft_OvenLTE_Dev')
 C=B.Label(A,text='Temp:',font=('Arial',15))
 C.pack()
 F=B.Entry(A)
