@@ -16,7 +16,16 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
 > Cumsoft OvenLTE is a simple interface that reads realtime cpu core tempature feedabck via Celsius tempature readout and helpful color coding. 
 > The OvenLTE is the perfect tool for CPU overclocking. 
-> 
+>
+> This Release comes with two Apps:
+> "Cumsoft_OvenLTE_App" & "Cumsoft_OvenLTE_Dev"
+>
+> The "Cumsoft_OvenLTE_App" has been preconfigured to estimate thresholds of the baseline CPU temp. More importantly it relays this information via color schemes which gives quick feedback on core system cpu temp changes. It is visible on the desktop and can be even read from afar.
+>
+> The "Cumsoft_OvenLTE_Dev" does not have preconfigured thresholds and allows the user to set them via minimum and maximum user input. Its function is still the same as the "App", However its legiblity is constrainted thus is better for users who are infront of console.
+>
+> Lastly it is important to note that the Cumsoft OvenLTE will run on debian with no additional packages needed. This software can run on other distros of linux but may require additional tooling and configuration. The Cumsoft OvenLTE framework is built off python and its legacy system assets. This means that you can launch the Cumsoft OvenLTE locally via Linux or have it run from the python/python3 folder.
+
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text](https://github.com/cumsoft/OvenLTE/blob/f8556b391f13dbd31b1963583c3f106371edfe11/Cumsoft_OvenLTE_ScreenShot2.png)
