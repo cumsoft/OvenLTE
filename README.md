@@ -14,7 +14,7 @@
 8. [Cumsoft](## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © ２０２２)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
-> Cumsoft OvenLTE is a simple interface that gives realtime cpu core tempature feedabck via Celsius tempature readout and helpful color coding too. 
+> Cumsoft OvenLTE is a simple interface that reads realtime cpu core tempature feedabck via Celsius tempature readout and helpful color coding. 
 > The OvenLTE is the perfect tool for CPU overclocking. 
 > 
 
@@ -23,8 +23,6 @@
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
-*Cumsoft has provided an assets downloader script however addition setup may be needed*
-
 *Browser installation*
 - Download from source: (https://cumsoft.gumroad.com/l/OvenLTE)
 - Navigate to target folder: Search keyword "Cumsoft_OvenLTE or "../user//Cumsoft_OvenLTE.zip/.."
@@ -32,20 +30,20 @@
 - Open Terminal and Navigate to the folder.
 - Open with Python or Python3.
 
----->. Dont Have Python installed?
-
+> Dont Have Python installed?
 
 Install Python3
 1. $ sudo apt-get update && sudo apt-get install python3 (Debian)
 2. $ sudo dnf install python3 (Other Linux Distros)
 3. $ sudo pacman -S python3 (Manjaro)
 
-Install pip <<<-----------------------   check version is $ pip -V
+Install pip 
 1. $ python get-pip.py (Linux & MacOS)
 2. $ sudo pacman -S python-pip3 (Manjaro)
+3. check version is $ pip -V
 
 Install tkinter
-1. $ pip install k
+1. $ pip install tk
 2. Configure tk with python: $ sudo pacman -S tk
 
 Install vcgencmd
