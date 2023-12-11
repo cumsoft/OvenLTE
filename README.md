@@ -107,7 +107,7 @@ Install virtualnv (opional)
 
 ## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦
 > The MIT License (MIT)
-Copyright © 2022-2023 <copyright holders>
+Copyright © 2022-2024 <copyright holders>
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 >
@@ -119,12 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ____________________________________________________________________________________
 ### Still got questions? send us an email: [Mail](mailto:cumsoft.subscribe@gmail.com)
 
-## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022-2023
-[Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
-
-### Latest Updates
-> If you would like to see a certian design implimented in the next release, feel free to write our devs with suggestions @ the email listed above.
->
->
+## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022-2024
 > Coded with <3 by the Cumsoft Dev Team :)
 
